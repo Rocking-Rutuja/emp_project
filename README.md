@@ -51,7 +51,7 @@ A **GUI-based Employee Management System** developed in **Python** using **Tkint
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/employee-management-system.git
+    git clone https://github.com/Rocking-Rutuja/emp_project.git
     ```
 
 2. Navigate to the project directory:
@@ -66,7 +66,7 @@ A **GUI-based Employee Management System** developed in **Python** using **Tkint
 
 4. Update **database credentials** in `app.py` if needed:
     ```python
-    conn = pymysql.connect(user='root', host='localhost', password='Python@123', database='emp_db')
+    conn = pymysql.connect(user='root', host='localhost', password='Y1012Jqkhkp', database='emp_db')
     ```
 
 ---
